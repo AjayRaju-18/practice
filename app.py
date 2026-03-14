@@ -1,5 +1,5 @@
 
-# Simple web app using Flask
+
 from flask import Flask, send_file
 
 app = Flask(__name__)
